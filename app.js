@@ -1087,7 +1087,7 @@ init()
 function init(){
     genPlaceSelectHtml(placeWrapper, arrayPlace)
     selectView()
-    genCatHtml(menuWrapper, arrayFood, arrayCat)
+    genCatHtml(menuWrapper, foodArray, arrayCat)
 }
 
 function selectView(){
@@ -1262,10 +1262,12 @@ function filterArray(list, num, cat, div) {
   }
   for (const x of num){
     list = filterArrayItem(list, x)
+
   }
   return(list)
 }
 function filterArrayItem(list, num){
+
   return (list.filter((x) => x.foodNumber !== num))
 }
 function filterArrayCat(list, cat){
