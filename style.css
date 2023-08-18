@@ -1,0 +1,165 @@
+:root{
+    --black: rgb(34, 29, 35);
+    --lightb: rgb(14, 177, 210);
+    --blue: rgb(48, 131, 220);
+    --orange: rgb(251, 97, 7);
+    --lightg: rgb(64, 249, 155);
+    --green: rgb(10, 135, 84);
+    --gray: rgb(141, 148, 186);
+}
+body{
+    background-color: var(--black);
+    color: white;
+}
+
+.cat-header{
+    border: 2px solid var(--blue);
+    border-radius: 10px;
+    height: 3.5em;
+    box-shadow: 3px 2px var(--lightb);
+    margin-top: 15px;
+    height: auto;
+}
+h6{
+    font-size: 2em;
+    line-height: 1.5;
+    color: var(--blue);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    height: auto;
+}
+.gegevens{
+    margin-top: 15px;
+    padding: 8px;
+    color: var(--lightg);
+    border: 2px solid var(--lightg);
+    border-radius: 10px;
+}
+.gegevens h6{
+    color: var(--lightg);
+    margin-bottom: 8px;
+}
+.gegevens label{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.gegevens input{
+    color: #727575;;
+    background-color: var(--black);
+    border: 1px solid var(--green);
+    height: 2em;
+}
+.gegevens select{
+    color: #727575;;
+    background-color: var(--black);
+    border: 1px solid var(--green);
+    height: 2em;
+}
+.textarea-2{
+    color: #727575;;
+    background-color: var(--black);
+    border: 1px solid var(--green);
+}
+
+.last-btn {
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+.last-btn input{
+    background-color: var(--black);
+    color: var(--green);
+    width: 100%;
+    margin-top: 5px;
+    border: 2px solid var(--green);
+    border-radius: 10px;
+    height: 2em;
+    font-size: 1em;
+    box-shadow: 3px 2px var(--lightg);
+    margin-top: 15px;
+}
+
+
+.item-np{
+    color: var(--lightb);
+    border-bottom: 1px dashed lightblue;
+}
+.item-np label{
+    margin: 0px;
+}
+
+
+.item-ds p{
+    color: var(--gray);
+    font-size: 0.8em;
+}
+.item-ds img{
+    margin-top: 5px;
+    margin-right: 5px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    width: 100px;
+    height: 100px;
+}
+
+
+.item-type{
+    margin-top: 20px;
+}
+.item-type p{
+    line-height: 1em;
+    color: var(--lightb);
+}
+.item-type b{
+    color: var(--orange);
+}
+.item-type input{
+    background-color: var(--black);
+    border-color: var(--lightb);
+    color: var(--lightb);
+    font-weight: bold;
+}
+
+.space{
+    margin-bottom: 40px;
+}
+#itemCat1 .space:last-child{
+    margin-bottom: 0px;
+}
+.spacer {
+    margin-top: 50px;
+}
+
+.bevestig-btn {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 1em;
+    box-shadow: 3px 2px var(--lightg);
+}
+.gegevens p {
+    color: var(--orange);
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-top: -2px;
+    line-height: 100%;
+    padding: 5px;
+    padding-bottom: 6px;
+    border: 2px dashed var(--orange);
+}
+
+#cat1 {
+    height: auto;
+}
+#cat2 {
+    height: auto;
+}
+#cat3 {
+    height: auto;
+}
+#cat4 {
+    height: auto;
+}
