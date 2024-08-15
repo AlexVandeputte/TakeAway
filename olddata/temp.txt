@@ -1,0 +1,198 @@
+
+hapjes
+    Portie mix koud 
+    10.00
+
+    Kip&peper met toastjes
+    4.50
+
+    Eiersalade met toastjes
+    4.50
+
+    Rillette met brood 
+    10.00
+warme hapjes
+    Portie mix warm
+    assortiment apero bolletjes, kaasstengels, uienringen, dip saus enz.
+    16.00
+
+    Portie mix veggie
+    uienringen, spinazie kroketjes, empanadilla's, dip enz.
+    16.00
+
+    mix warm kids
+    kipnuggets en mini frikandellen met ketchup
+    5.00
+
+    Plankje Fiesta
+    assortiment warme zuiderse hapjes, nacho's en 2 salsa's 
+    17.00
+voorgerechten
+    Rundscarpaccio
+    14.00
+
+    Scampi curry (5stuks)
+    14.00
+
+    Slaatje kaaskroket (1stuk)
+    9.50
+
+    Slaatje garnaalkroket (1stuk)
+    12.00
+
+    Slaatje duo kaas/garnaalkroket 
+    18.00
+Slaatje
+    Slaatje Scampi (7stuks)
+    22.00
+
+    Carpaccio 
+    21.00
+
+    Kaaskroket (3stuks)
+    19.00
+
+    Garnaalkroket (3stuks)
+    23.00
+
+    Vleeskroketten (3stuks)
+    19.00
+
+    Kroketten mix (van elk 1)
+    21.00
+Pastagerechten
+    Spaghetti bolognaise
+    15.00
+
+    Spaghetti bolognaise veggie
+    16.00
+
+    Pasta scampi appel curry (7stuks)
+    22.00
+Seizoengerechten
+    Mosselen witte wijn (1kg)
+    25.00
+
+    Mosselen natuur (1kg)
+    22.00
+visgerechten
+    Vispannetje maison
+    6 verschillende soorten vis en schelpdieren, kreeftensaus en grijze garnalen
+    23.00
+
+    Vispannetje Up
+    6 verschillende soorten vis en schelpdieren, aspergesaus en grijze garnalen
+    23.00
+
+    Scampi appel curry (7stuks)
+    gebakken scampi's in een appel curry saus
+    22.00
+
+    Cordon blue van Victoriabaas
+    gegratineerd in de oven met een spinazie roomsausje
+    22.00
+
+    Zalm asperge
+    in de oven gebakken zal met asperges en aspergeroomsaus
+    23.00
+Vleesgerechten
+    Steak natuur
+    Piëmontees rundsvlees
+    22.00
+
+    Entrecote natuur
+    Belgische wit-blauw
+    25.00
+
+    Côte à l'os (2personen)
+    ongeveer 1.5kg wachtijd ongeveer 45min
+    68.00
+
+    Huis gemarineerde ribben
+    20.50
+
+    Steak tartaar
+    22.00
+
+    Vol au vent 
+    22.00
+
+    Kip mama Thai
+    kip met rode curry op Thaise wijze
+    22.00
+Kids 
+    Spaghetti bolognaise
+    10.00
+    
+    Kaaskroket (2stuks)
+    14.00
+
+    Vol au vent
+    11.00
+
+    Frikandel (2stuks)
+    9.00
+
+    Ivotje
+    snackmannetje met mini Frikandellen en kipnugget
+    11.00
+
+    huis gemarineerde ribbetje (300g)
+    15.00 
+menu's
+    Scampi appel curry
+    Carpaccio
+
+    huis gemarineerde ribbetjes met saus naarkueze
+    Cordon blue van Victoriabaas
+
+    diplomaten koffie
+    Chocolademousse
+
+
+    Aperobordje van het huis
+    Côte à l'os
+    Dame blanche of irish koffie
+Pannenkoeken
+    Suiker/Boter
+    4.50
+
+    Slagroom
+    5.50
+
+    IJs vanille 
+    5.50
+
+    Chocoladesaus
+    5.50
+
+    Confituur
+    4.50
+Desserts
+    Verwenbordje
+    9.00
+
+    Chocolademousse
+    8.00
+
+    Dame blanche 
+    6.00
+
+    Dame noir
+    6.00
+
+    Coupe brésillienne 
+    6.00
+
+    Coupe advocaat
+    6.00
+
+    Coupe speculoos klein
+    6.00
+
+    Coupe vers fruit
+    7.50
+
+    Kinderijsje
+    3.00
+
